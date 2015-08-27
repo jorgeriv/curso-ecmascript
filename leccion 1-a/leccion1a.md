@@ -1,19 +1,20 @@
-Aritmetic operations
-====================
+Lecccion 1
+==========
 
-JavaScript Aritmetic operators
-------------------------------
+Javascript variables
+--------------------
 
-1. Multiplicar ' * ' 
-2. Dividir     ' / '
-3. Potenciar   ' ** '
-4. Residuo     ' % '
-5. Suma        ' + '
-6. Resta       ' - '
-7.  Incremento  ' ++ '
-8. Decremento  ' -- '
+Esta leccion es aceercadaasdlkfja sdf;k asdkf iunadsf kjadnfkn asdfk;ajdsf kads
 
-[Mas informacion en MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
+h1, h2, h3, h4, h5, h6
 
-Precendencia de los operadores aritmeticos
-------------------------------------------
+# Esto es un h1
+## Esto es un h2
+### Esto es un h3
+#### Esto es un h4
+##### Esto es un h5
+###### Esto es un h6
+
+Link:
+
+[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

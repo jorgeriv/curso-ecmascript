@@ -34,7 +34,7 @@
  * 
  * Javascript es un lenguaje interpretado, esto significa que existe una aplicacion encargada de convertir
  * el codigo fuente en instrucciones que puedan ser ejecutadas por el procesador en tiempo real a diferencia
- * de un lenguaje compilado que es cambiado a codigo maqiuna para su posterior ejecucion.
+ * de un lenguaje compilado que es cambiado a codigo maquiuna para su posterior ejecucion.
  * 
  * Algunos de los interpretes mas populares (tambien conocidos como runtime environment) son:
  * SpiderMonkey - Mozilla
@@ -53,7 +53,7 @@
  * no tienen mucho mas que ver aparte del nombre.
  * Gracias a un acuerdo comercial entre mozilla y Java mozilla puede usar el nombre JavaScript
  * pero al momento de nombrar el standard no se pudo registrar bajo ese nombre que ya le pertenecia a
- * la empresa q ue hace java. Pero otras empresas no puede utilizar el nombre de javascript
+ * la empresa que hace java. Pero otras empresas no puede utilizar el nombre de javascript
  * 
  * En la practica EcmaScript es mejor conocido como JavaScript
  * 

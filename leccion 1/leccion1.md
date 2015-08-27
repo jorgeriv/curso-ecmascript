@@ -1,20 +1,55 @@
-Lecccion 1
-==========
+Conceptos basicos
+=================
 
-Javascript variables
---------------------
+Que es JavaScript?
+------------------
+JavaScript es un lenguaje de programacion interpretado, orientado a objetos basado en prototipos.
 
-Esta leccion es aceercadaasdlkfja sdf;k asdkf iunadsf kjadnfkn asdfk;ajdsf kads
+Que es EcmaScript?
+------------------
+EcmaScript es el nombre correcto del estandard.
 
-h1, h2, h3, h4, h5, h6
 
-# Esto es un h1
-## Esto es un h2
-### Esto es un h3
-#### Esto es un h4
-##### Esto es un h5
-###### Esto es un h6
 
-Link:
 
-[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Comentarios
+-----------
+
+Los comentarios son bloques de codigo que son ignorados por el interprete de javascript.
+Existen dos maneras de agregar comentarios:
+
+```javascript
+
+// Comentarios de una linea
+
+/*
+Bloque comentario,
+multi-linea
+*/
+
+```
+Declaraciones
+-------------
+
+```javascript
+var edad = 30;
+
+let nombre = "Jorge";
+
+const PI = 3.141598;
+```
+
+** NOTA: ** *Nombres validos de identificadores en javascript deben iniciar con una letra, guion bajo (_) o signo de pesos ($); el resto de los caracteres pueden incluir numeros*
+
+** Pro tip: ** _Valores CONSTATES por convencion son escritos con todas sus letras en mayusculas_
+
+Tipos de datos primitivos en JavaScript
+---------------------------------------
+ * Boolean
+ * String
+ * Number
+ * Object
+ * Array
+ * Null
+ * Undefined
+ * Symbol
