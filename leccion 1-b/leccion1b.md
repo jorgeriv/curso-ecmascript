@@ -10,7 +10,7 @@ JavaScript Aritmetic operators
 4. Residuo     ' % '
 5. Suma        ' + '
 6. Resta       ' - '
-7.  Incremento  ' ++ '
+7. Incremento  ' ++ '
 8. Decremento  ' -- '
 
 [Mas informacion en MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
