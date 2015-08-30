@@ -1,46 +1,69 @@
 /**
  * Ciclos
- * 
- * Un ciclo se refiere a un bloque de codigo que se ejecuta (cicla) un cierto numero
- * de veces.
+ * While
+ * Do while
+ * for
+ * forEach
+ * for in
  */
  
- /*******
-  * FOR *
-  *******/
-  
-  
-  // Declaracion del contador; condicion; incremento del contador
  
-  for(var contador = 0; contador < 10; contador = contador + 1){
-     console.log(contador); 
+ /**
+  * While (mientras)
+  */
+  console.log('\n WHILE'); 
+  var i = 0;
+  while(i < 10){
+      console.log('El ciclo while va en la iteracion %s', ++i);
   }
-  
-  // Ciando contador no es menor que 10 (en este caso cuando contador = 10)
-  // El ciclo termina y continua ejecutando el codigo aqui...
-  
-
-/*********
- * While *
- *********/
+ console.log('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>');
  
- var i = 0;
- while(i < 10){
-     console.log(i);
-     i++; // esto es igual que i = i + 1;
+ /**
+  * Do While(Hacer mientras que...)
+  */
+console.log('\n DO WHILE'); 
+ var j = 10;
+ do{
+     console.log('Iteracion No. %s', j--);
+ } while(j > 0);
+  console.log('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>');
+ 
+ /**
+  * for
+  */
+console.log('\n FOR'); 
+for(var k = 0 ; k < 10; k++){
+  console.log('Iteracion %s del ciclo \'for\'', k);
+}
+ console.log('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>');
+ 
+/**
+* forEach (por cada uno)
+*/
+console.log('\n FOR EACH'); 
+var lugaresReservados = 0;
+var invitados = ['Carmen', 'Francisco', 'Jose', 'Maria'];
+
+function reservar(element, index, array){
+    lugaresReservados++;
+   console.log('Se ha reservado un lugar para %s', element);
+}
+
+invitados.forEach(reservar);
+
+console.log('Se han reservado %s lugares', lugaresReservados);
+console.log('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>');
+
+/**
+ * for in
+ */
+console.log('\n FOR IN'); 
+ var carro = {
+     color: 'Rojo',
+     modelo: 'Cambry',
+     anyo: 2001
  }
- 
- // Pro tip: el uso de la letra 'i' como contador es tradicionalmente utilizado en programacion
- // y tiene que ver con los cilos que se usaban en el lenguaje ***
- // cuando tenemos 2 contadores es costumbre utilizar la letra 'j' como el segundo contador
- 
- // Pro tip: Puedes utilizar el operador ++ en lugar de variable = variable + 1;
- 
- // Pro tip: Puedes usar tanto ++i como i++ pero ten en cuenta que te daran diferente resultado
-
- var j = 5;
- console.log(++j);
- // i se aumenta en 1
- console.log(j++);
- console.log(j);
- 
+ var caracteristica;
+ for(caracteristica in carro){
+     console.log(caracteristica + ' es: ' + carro[caracteristica]);
+ }
