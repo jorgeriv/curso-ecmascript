@@ -1,5 +1,5 @@
-Operadores de comparacion
-=========================
+Leccion 5 - Operadores de comparacion
+=====================================
 
 1. Eqiovalencia ( == )
 2. Igualdad ( === )
