@@ -1,13 +1,34 @@
-Lecccion 1
-==========
-
-Javascript variables
---------------------
+Lecccion 2 - Javascript variables
+=================================
 
 
 ### Declaracion de variables
 
 Nombres validos para las variables son todos aquellos que inician con un caracter alfabetico o un guion bajo, solo incluyen esos caractertes mas numeros, no son una palabra reservada del lenguaje y no contiene espacios intermedios.
+
+---
+TODO: Put this code in its place
+
+** NOTA: ** *Nombres validos de identificadores en javascript deben iniciar con una letra, guion bajo (_) o signo de pesos ($); el resto de los caracteres pueden incluir numeros*
+
+** Pro tip: ** _Valores CONSTATES por convencion son escritos con todas sus letras en mayusculas_
+
+Tipos de datos primitivos en JavaScript
+---------------------------------------
+ * Boolean
+ * String
+ * Number
+ * Object
+ * Array
+ * Null
+ * Undefined
+ * Symbol
+ 
+Uso de una variable sin definir provoca un error 'variable is not defined';
+Una variable se puede definir sin asingarle ningun valor lo que dara una variable con valor 'undefined';
+
+
+---
 
 ```javascript
 // Nombres validos

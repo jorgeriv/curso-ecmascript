@@ -80,22 +80,9 @@ TODO: Add more examples where semicolon are mandatory
 
 Aun que el punto y coma no sea necesario en todos los casos es recomendable usarlo para mejorar la consistencia y tratar de evitar errores, sin embargo  esta regla es ampliamente debatida y dependera mucho del estilo del programador o equipo de desarrollo con el que se trabaje. En este curso utilizaremos siempre el punto y coma.
 
-** NOTA: ** *Nombres validos de identificadores en javascript deben iniciar con una letra, guion bajo (_) o signo de pesos ($); el resto de los caracteres pueden incluir numeros*
-
-** Pro tip: ** _Valores CONSTATES por convencion son escritos con todas sus letras en mayusculas_
-
-Tipos de datos primitivos en JavaScript
----------------------------------------
- * Boolean
- * String
- * Number
- * Object
- * Array
- * Null
- * Undefined
- * Symbol
- 
-Uso de una variable sin definir provoca un error 'variable is not defined';
-Una variable se puede definir sin asingarle ningun valor lo que dara una variable con valor 'undefined';
-
-
+Glosario
+--------
+**constante:**
+**funcion:**
+**metodo**
+**variable**
