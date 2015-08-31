@@ -16,7 +16,7 @@ Al finalizar este curso seras capaz de crear aplicaciones web complejas que
 funcionen en los navegadores modernos.
 
 
-Que necesitas para este curso?
+Que necesitas para este curso:
 ------------------------------
 1. Computadora
 2. Navegador de internet
