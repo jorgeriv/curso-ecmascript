@@ -83,3 +83,31 @@ if(edad < 22){
     edadEscolar = 'No esta en edad escolar';
 }
 ```
+
+Falsy & Truly values
+--------------------
+
+Existen varios valores que ese evaluan como verdadero o falso sin ser extrictamente los valores boleaos 'true' y 'false'.
+
+Los siguientes valores seran tomados como verdaderos en una condicioiom
+1. Numero diferente de cero (1)
+2. Un objeto ({})
+3. Un array ([])
+4. Un string no vacio ('a')
+5. el boleano true (obviamente)
+
+Los siguientes valores son evaluados como false
+1. 0
+2. ''
+3. null
+4. undefined
+5. false
+
+if('yolanda'){
+    // Este codigo se ejecuta porque el string se evalua como 'true'
+}
+
+
+if(''){ 
+    // Este codigo no se ejecuta porqe un string vacio se evalua como 'false'
+}
