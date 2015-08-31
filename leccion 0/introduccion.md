@@ -14,6 +14,12 @@ algun conocimiento general sobre programacion, pero puede ser seguido por un
 absoluto principiante. Las personas con un conosimiento basico o meidio de
 JavaScript tambien podrian sacar provecho del curso.
 
+Conocimientos previos necesarios
+--------------------------------
+Para obtener un mejor provecho de este curso es recomendable que tengas un conosimiento basico sobre programacion en general. Sin embargo el curso esta lo suficientemente explicado para ser comprendido incluso si es tu primer encuentro con la programacion.
+
+Si encuentras dificultades en el seguimiento del curso puedes inicar con el mini-curso de introduccion a la programacion de esta misma serie.
+
 Que voy a aprender?
 -------------------
 
