@@ -1,6 +1,7 @@
 # curso-ecmascript
 Curso/taller de JavaScript
 
+## Otros cursos de la serie
 Este curso es parte de una serie de cursos de desarrollo web que incluyen:
 
 * GIT - https://github.com/jorgeriv/curso-git
