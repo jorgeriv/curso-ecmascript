@@ -16,7 +16,7 @@ Este curso es parte de una serie de cursos de desarrollo web que incluyen:
 * Leccion 3 - [Operadores aritmeticos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%203)
 * Leccion 4 - [Operadores logicos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%204)
 * Leccion 5 - [Funciones](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%205)
-* Leccion 6 - [Objetos Estandar](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%206)
+* Leccion 6 - [Objetos estandar](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%206)
 * Leccion 7 - [Estructuras de control](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%207)
 * Leccion 8 - [Ciclos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%208)
 * Leccion 9 - [DOM API](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
