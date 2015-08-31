@@ -122,7 +122,7 @@ function potencia(base, exponente){
         resultado = resultado * base;
     }
 }
-
+```
 
 ### Hoisting (elevacion)
 **Hoisting:** Se refiere a la etapa en la que el interprete del lenguaje lee las declaraciones y eleva las variables definidas dentro de una funcion o bloque de codigo al scope donde es definida, si no encuentra la definicion en ningun scope su perior hasta llegar al scope principal, la variable se convierte en global.
