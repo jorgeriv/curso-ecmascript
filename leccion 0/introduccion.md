@@ -1,6 +1,11 @@
 Introduccion
 ============
 
+Sobre el author
+---------------
+
+Jorge Rivera es un desarrollador fullstack con mas de 6 anyos trabajando en el desarrollo web, ha trabajado como consultor en importantes proyectos para GE (General Electric) entre otras empresas.
+
 Para quien es este curso?
 -------------------------
 
@@ -19,5 +24,15 @@ funcionen en los navegadores modernos.
 Que necesitas para este curso:
 ------------------------------
 1. Computadora
-2. Navegador de internet
-3. Editor de texto plano de tu preferencia
+2. Navegador de internet [obten firefox](https://www.mozilla.org/es-ES/firefox/new/)
+3. Editor de texto plano de tu preferencia [obten brackets](http://brackets.io/)
+
+Composicion del curso
+---------------------
+Este curso se compone de lecciones cortas, cada una se compone de un video, un archivo markdown *leccion.md* y una serie de ejemplos y ejercicios.
+
+Los videos los puedes encontrar en mi canal de youtube, los archivos del curso estan en mi cuenta de github y mi pagina personal.
+
+Como estudiar el curso
+----------------------
+Mira el video correspondiente a la leccion, analiza y sigue los ejemplos (pausa y regresa en video de ser necesario), tambien puedes ver el archivo markdown de la leccion que es la version escrita del contenido del video que ademas contendra enlaces donde puedes profundizar en el tema. Una vez que hayas comprendido la leccion completa los ejercicios que encontraras dentro de la carpeta con el mismo nombre de cada leccion.
