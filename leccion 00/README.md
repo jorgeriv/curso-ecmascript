@@ -30,8 +30,8 @@ funcionen en los navegadores modernos.
 Que necesitas para este curso:
 ------------------------------
 1. Computadora
-2. Navegador de internet [obten firefox](https://www.mozilla.org/es-ES/firefox/new/)
-3. Editor de texto plano de tu preferencia [obten brackets](http://brackets.io/)
+2. Navegador de internet. Te recomiendo [obten firefox](https://www.mozilla.org/es-ES/firefox/new/)
+3. Editor de texto plano de tu preferencia. Te recomiendo [obten brackets](http://brackets.io/)
 
 Composicion del curso
 ---------------------
