@@ -25,7 +25,7 @@ Este curso es parte de una serie de cursos de desarrollo web que incluyen:
 * Leccion 09 - [Ciclos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%2009)
 * Leccion 10 - [DOM API](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%2010)
 
-### JavaScript Avanzado
+### JavaScript Intermedio
 * Leccion 11 - [Depuracion de errores](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
 * Leccion 12 - [Strict mode](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
 * Leccion 13 - [Closures](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
@@ -34,18 +34,29 @@ Este curso es parte de una serie de cursos de desarrollo web que incluyen:
 * Leccion 16 - [Iteradores y generadores](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
 * Leccion 17 - [Expresiones regulares](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
 * Leccion 18 - [Funciones flecha](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 19 - [Objetos avanzados](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 20 - [Promesas](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 21 - [Plantillas de cadena de caracteres](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 22 - [Destructuracion](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 23 - ['Default', 'rest' y 'spread'](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 24 - [Modulos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 25 - [Map + Set + WeakMap + WeakSet](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 26 - [Proxies](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 27 - [Symbols](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 28 - [Eventos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 29 - [Event loop](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 30 - [JavaScript orientado a objetos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 19 - [Promesas](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 20 - [Plantillas de cadena de caracteres](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 21 - [Destructuracion](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 22 - ['Default', 'rest' y 'spread'](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 23 - [Modulos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 24 - [Map + Set + WeakMap + WeakSet](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 25 - [Proxies](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 26 - [Symbols](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 27 - [Eventos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 28 - [Event loop](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+
+### JavaScript Avanzado
+* Leccion 29 - [JavaScript orientado a objetos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 30 - [Encapsulacion](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 31 - [Objetos avanzados](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 32 - [Herencia](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 33 - [Prototipos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 34 - [variable this](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 35 - [Poliformismo](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 36 - [Class](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 37 - [Palabra new](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+
+
 
 
 ### Apendice
@@ -56,3 +67,7 @@ Este curso es parte de una serie de cursos de desarrollo web que incluyen:
 * Apendice E - [Referencias utiles]()
 * Apendice F - [Glosario de terminos]()
 * Apendice G - [Transpilers]()
+* Apendice H - [Compresores]()
+* Apendice I - [JSLint]()
+* Apendice J - [JSON]()
+* Apendice K - []()
