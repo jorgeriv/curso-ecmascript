@@ -4,11 +4,11 @@ Curso/taller de JavaScript
 ## Otros cursos de la serie
 Este curso es parte de una serie de cursos de desarrollo web que incluyen:
 
-* [GIT](https://github.com/jorgeriv/curso-git)
-* [CSS3](https://github.com/jorgeriv/curso-css)
-* [HTML5](https://github.com/jorgeriv/curso-html5)
-* [JavaScript](https://github.com/jorgeriv/curso-ecmascript) *Este curso*
-* [Node.js](https://github.com/jorgeriv/curso-node)
+[GIT](https://github.com/jorgeriv/curso-git) | 
+[CSS3](https://github.com/jorgeriv/curso-css) | 
+[HTML5](https://github.com/jorgeriv/curso-html5) | 
+**[JavaScript](https://github.com/jorgeriv/curso-ecmascript)** | 
+[Node.js](https://github.com/jorgeriv/curso-node)
 
 ## Contenido
 
@@ -44,17 +44,18 @@ Este curso es parte de una serie de cursos de desarrollo web que incluyen:
 * Leccion 26 - [Symbols](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
 * Leccion 27 - [Eventos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
 * Leccion 28 - [Event loop](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 29 - [Shadow DOM]()
 
 ### JavaScript Avanzado
-* Leccion 29 - [JavaScript orientado a objetos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 30 - [Encapsulacion](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 31 - [Objetos avanzados](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 32 - [Herencia](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 33 - [Prototipos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 34 - [variable this](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 35 - [Poliformismo](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 36 - [Class](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
-* Leccion 37 - [Palabra new](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 30 - [JavaScript orientado a objetos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 31 - [Encapsulacion](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 32 - [Objetos avanzados](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 33 - [Herencia](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 34 - [Prototipos](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 35 - [variable this](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 36 - [Poliformismo](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 37 - [Class](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
+* Leccion 38 - [Palabra new](https://github.com/jorgeriv/curso-ecmascript/tree/master/leccion%209)
 
 
 
